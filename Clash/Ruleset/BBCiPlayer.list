@@ -1,5 +1,5 @@
 # 内容：BBCiPlayer
-# 数量：15条
+# 数量：16条
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bidi.net.uk
+DOMAIN-SUFFIX,bbctvapps.co.uk
